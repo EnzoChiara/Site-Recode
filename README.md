@@ -2,6 +2,8 @@
 
 Bem-vindo ao RecodeTravels, sua agência de viagens online para explorar destinos incríveis, aproveitar promoções exclusivas e entrar em contato conosco para planejar suas próximas aventuras. Este projeto, desenvolvido durante o curso da RecodePro, visa proporcionar uma experiência visual atraente para os usuários.
 <br>
+<br>
+
 Recursos Principais:<br>
 🌆 Destinos Deslumbrantes:<br>
 Explore nossa seleção de destinos incríveis com imagens cativantes e informações detalhadas.<br>
